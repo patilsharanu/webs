@@ -1,0 +1,18 @@
+h1 {
+    color:rosybrown;
+}
+
+.sectionheight {
+    height:100vh;
+
+}
+
+#sectionheight {
+    height:100vh;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+    padding: 0;
+}
